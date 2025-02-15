@@ -325,6 +325,7 @@ data.groupby(['claim_status', 'author_ban_status']).agg(
 # *   What factors correlate with a video's engagement level?
 # 
 
-# ==> ENTER YOUR RESPONSE HERE
+'''Of the 19,382 samples in this dataset, just under 50% are claims—9,608 of them.
+Engagement level is strongly correlated with claim status. This should be a focus of further inquiry.
+Videos with banned authors have significantly higher engagement than videos with active authors. Videos with authors under review fall between these two categories in terms of engagement levels.'''
 
-# **Congratulations!** You've completed this lab. However, you may not notice a green check mark next to this item on Coursera's platform. Please continue your progress regardless of the check mark. Just click on the "save" icon at the top of this notebook to ensure your work has been logged.
